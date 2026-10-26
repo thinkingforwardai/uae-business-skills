@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "mcp-dubai": {
+      "command": "uvx",
+      "args": ["mcp-dubai"]
+    },
+    "uae-law-mcp": {
+      "command": "npx",
+      "args": ["-y", "@ansvar/uae-law-mcp"]
+    },
+    "open-emirates": {
+      "command": "bunx",
+      "args": ["--bun", "uaemcp@latest"]
+    },
+    "dld-mcp": {
+      "type": "http",
+      "url": "https://offerbrief.com/mcp"
+    },
+    "bga-uae-updates": {
+      "type": "http",
+      "url": "https://mcp.bga.ae/mcp"
+    }
+  }
+}

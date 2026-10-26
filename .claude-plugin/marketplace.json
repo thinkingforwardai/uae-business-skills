@@ -1,0 +1,15 @@
+{
+  "name": "thinkingforward",
+  "owner": {
+    "name": "Thinking Forward",
+    "url": "https://thinkingforward.ai"
+  },
+  "plugins": [
+    {
+      "name": "uae-business-skills",
+      "source": "./",
+      "description": "Agent Skills for doing business in the UAE: company setup advisor, Golden Visa pre-check, e-invoicing readiness. Unofficial, built on public MCP servers.",
+      "version": "0.1.0"
+    }
+  ]
+}

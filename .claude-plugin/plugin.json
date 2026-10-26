@@ -1,0 +1,13 @@
+{
+  "name": "uae-business-skills",
+  "version": "0.1.0",
+  "description": "Agent Skills for doing business in the UAE: company setup advisor, Golden Visa pre-check, e-invoicing readiness. Unofficial, built on public MCP servers.",
+  "author": {
+    "name": "Thinking Forward",
+    "url": "https://thinkingforward.ai"
+  },
+  "homepage": "https://github.com/thinkingforwardai/uae-business-skills",
+  "repository": "https://github.com/thinkingforwardai/uae-business-skills",
+  "license": "MIT",
+  "keywords": ["uae", "dubai", "agent-skills", "mcp", "company-setup", "golden-visa", "e-invoicing", "peppol"]
+}
